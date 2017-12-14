@@ -19,6 +19,8 @@
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/spring-instrument-3.2.0.M1.jar"/>
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/spring-aop-3.2.0.M1.jar"/>
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/javax.inject.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/javax.faces-2.1.12.jar"/>
+	<classpathentry kind="lib" path="src/org/springframework/web/context/request/15eda00b00cc3ae494b1d661ec8e46df.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
